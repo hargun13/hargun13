@@ -11,7 +11,7 @@
       ⚡ Fun fact: I enjoy working on cool projects
     </td>
     <td style="width: 30%; vertical-align: top; border: none;">
-      <img src="https://i.pinimg.com/originals/36/39/4c/36394cff8904109280fce041ab2a2dc7.jpg" alt="About Me Image" style="width: 300px; height: auto; border: none;" />
+      <img src="memoji.png" alt="About Me Image" style="width: 300px; height: auto; border: none;" />
     </td>
   </tr>
 </table>
