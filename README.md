@@ -3,7 +3,7 @@
 ## 💫 About Me:
 <table style="width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="width: 70%; vertical-align: top; border: none; padding-right:30px;">
+    <td style="width: 70%; vertical-align: top; border: none; padding-right: 30px; font-size: 18px;">
       🔭 I’m currently working on GradLock, a decentralized exam portal<br><br>
       🌱 I’m currently learning DevOps and System Design<br><br>
       💬 Ask me about Software Development or anything related to Product Development<br><br>
