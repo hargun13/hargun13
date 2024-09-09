@@ -1,4 +1,4 @@
-# Hey there! 👋 My name is Hargun 😀
+# Hello, world! 🌍 I'm Hargun 👋
 
 ## 💫 About Me:
 <table style="width: 100%; border: none;">
