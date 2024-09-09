@@ -6,7 +6,7 @@
     <td style="width: 70%; vertical-align: top; border: none; padding-right: 30px; font-size: 18px;">
       🔭 I’m currently working on GradLock, a decentralized exam portal<br><br>
       🌱 I’m currently learning DevOps and System Design<br><br>
-      💬 Ask me about Software Development or anything related to Product Development<br><br>
+      💬 Feel free to chat with me about building software solutions or crafting innovative products.<br><br>
       📫 You can reach me using my email: chandhokhargun@gmail.com<br><br>
       ⚡ Fun fact: I enjoy working on cool projects
     </td>
