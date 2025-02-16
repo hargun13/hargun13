@@ -34,4 +34,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hargun13&icon=9&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=hargun13&color=blue)
+
