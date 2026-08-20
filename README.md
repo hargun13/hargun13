@@ -21,10 +21,6 @@
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://hargun.netlify.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hchandhok/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=I_ncSFgAAAAJ&hl=en) [![Gmail](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:chandhokhargun@gmail.com)
 
-## 📌 Pinned Work
-> Pin these repos on your GitHub profile (top of page, separate from this README) so they're the first thing a visitor sees:
-> **Packagenius** · **Scotty (Tartan Tickets)** · **TruComply** · **EcoPost**
-
 # 💻 Tech Stack:
 
 **AI / ML**
@@ -46,11 +42,6 @@
 **Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=hargun13&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hargun13&layout=compact&theme=radical&hide_border=true)
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=hargun13&color=blue)
