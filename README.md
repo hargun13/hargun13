@@ -19,7 +19,7 @@
 </table>
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://your-portfolio-url.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hchandhok/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID) [![Gmail](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:chandhokhargun@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://hargun.netlify.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hchandhok/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=I_ncSFgAAAAJ&hl=en) [![Gmail](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:chandhokhargun@gmail.com)
 
 ## 📌 Pinned Work
 > Pin these repos on your GitHub profile (top of page, separate from this README) so they're the first thing a visitor sees:
